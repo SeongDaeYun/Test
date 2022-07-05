@@ -1,11 +1,8 @@
 # Test
 Test uploading
 
-## Table 1
-Test1
----
-- - -
-***
-* * *
+## Test1
+Test uploading
+
 
 ## Table 2
