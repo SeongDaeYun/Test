@@ -24,5 +24,5 @@ Figure: <https://github.com/SeongDaeYun/Test/blob/main/Figures/Fig1.jpg> <br>
 
 ![Figure](https://github.com/SeongDaeYun/Test/blob/main/Figures/Fig1.jpg)
 
-<img src = "https://github.com/SeongDaeYun/Test/blob/main/Figures/Fig1.jpg" width = "50%" height = "50%" >
+<img src = "https://github.com/SeongDaeYun/Test/blob/main/Figures/Fig1.jpg" width = "562px" height = "506px" >
 
