@@ -19,4 +19,4 @@ printf("t2") ;
 ## Level 1.3
 Test uploading
 
-https://github.com/SeongDaeYun/Test/blob/main/Figures/Fig1.jpg
+[Figure](https://github.com/SeongDaeYun/Test/blob/main/Figures/Fig1.jpg)
