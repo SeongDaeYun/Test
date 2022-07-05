@@ -20,3 +20,4 @@ printf("t2") ;
 Test uploading
 
 [Figure](https://github.com/SeongDaeYun/Test/blob/main/Figures/Fig1.jpg)
+Figure: <https://github.com/SeongDaeYun/Test/blob/main/Figures/Fig1.jpg>
